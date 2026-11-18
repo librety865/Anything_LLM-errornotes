@@ -1,0 +1,6 @@
+{
+  "name": "mistake-workbench",
+  "version": "1.0.0",
+  "main": "desktop/main.mjs",
+  "type": "module"
+}

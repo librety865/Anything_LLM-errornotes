@@ -1,0 +1,7 @@
+{
+  "name": "mistake-workbench-teacher",
+  "productName": "Zhixu Teacher",
+  "version": "0.1.0",
+  "main": "desktop/main.mjs",
+  "type": "module"
+}

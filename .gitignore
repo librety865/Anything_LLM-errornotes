@@ -1,0 +1,6 @@
+.pnpm-store/
+.npm-cache/
+node_modules/
+*.tsbuildinfo
+.env.local
+.env.*.local
